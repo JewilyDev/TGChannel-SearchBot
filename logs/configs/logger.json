@@ -1,0 +1,4 @@
+{
+    "filename": "../../logs/main_log.log",
+    "format": "%(asctime)s - %(filename)s:%(lineno)d - %(funcName)s - %(levelname)s - %(message)s"
+}

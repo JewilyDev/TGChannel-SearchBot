@@ -1,0 +1,12 @@
+{
+    "k1": 1.5,
+    "b": 0.75,
+    "delta": 0.5,
+    "method": "atire",
+    "idf_method": "atire",
+    "dtype": "float32",
+    "int_dtype": "int32",
+    "num_docs": 7277,
+    "version": "0.2.9",
+    "backend": "numpy"
+}

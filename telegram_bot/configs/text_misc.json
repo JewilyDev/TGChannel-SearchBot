@@ -1,0 +1,13 @@
+{
+    "feedback_like_text" : "Хорошо",
+    "feedback_dislike_text": "Плохо",
+    "settings_title" : "Настройки бота",
+    "settings_release_only" : "Вкл/Выкл поиск по Релизам",
+    "settings_search_link_request" : "Пожалуйста, вставьте ссылку на канал, в котором вы хотите искать.",
+    "settings_release_only_yes" : "Теперь вы ищете только по релизам!",
+    "settings_release_only_no" : "Теперь вы ищете по всем записям.",
+    "process_link_wrong_src" : "Некорректный источник. Проверьте ссылку на канал",
+    "process_link_not_found" : "Информации о таком источнике нет",
+    "process_link_success" : "",
+    "bot_off_text" : ""
+}

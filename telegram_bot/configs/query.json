@@ -1,0 +1,7 @@
+{
+    "llm_context_length" : 8192,
+    "llm_query_template" : "",
+    "llm_endpoint_answer" : "",
+    "llm_endpoint_generate" : "",
+    "index_topk" : 15 
+}

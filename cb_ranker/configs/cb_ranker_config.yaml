@@ -1,0 +1,6 @@
+loss_function: PairLogitPairwise
+iterations: 3000
+learning_rate: 0.01
+depth: 4
+verbose: 100
+use_gpu: true

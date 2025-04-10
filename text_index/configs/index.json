@@ -1,0 +1,5 @@
+{
+    "index_to_db_path" : "/home/znai/tgbot/tgbotsb/text_index/index_files/",
+    "dates_json_path" : "/home/znai/tgbot/tgbotsb/text_index/index_files/dates_.json",
+    "index_files_path" : "/home/znai/tgbot/tgbotsb/text_index/index_files/"
+}

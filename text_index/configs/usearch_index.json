@@ -1,0 +1,5 @@
+{
+    "embeddings_dim" : 384,
+    "index_file_path" : "/home/znai/tgbot/tgbotsb/text_index/index_files/",
+    "index_file_name" : "ind#source#.usearch"
+}
